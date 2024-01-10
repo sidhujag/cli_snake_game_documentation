@@ -1,1 +1,5 @@
 Product Goals: Outline up to three key goals for the product.
+Product Goals:
+1. Create an engaging and responsive CLI-based Snake Game that provides a nostalgic experience for users.
+2. Ensure the game runs smoothly across different platforms, including Windows, macOS, and Linux.
+3. Implement a high-score tracking system to increase competitiveness and replay value.
